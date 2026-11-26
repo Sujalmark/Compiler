@@ -1,0 +1,3 @@
+a: integer;
+b, c: integer;
+i, j, k: real;
